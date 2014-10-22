@@ -14,6 +14,7 @@ SolidWorks
 
 
 Construction
-1.
+1. Wait for cad to finish.
+2. Build drive train and test the potentiometer code.
 
 
