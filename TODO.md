@@ -8,12 +8,16 @@ Code
 
 
 SolidWorks
+
+
 1. Upload the standard parts.
 2. Build first rev of robot.
 3. Do stress tests and other mech tests.
 
 
 Construction
+
+
 1. Wait for cad to finish.
 2. Build drive train and test the potentiometer code.
 3. Make effiency a top priority when placing different details on the drive train such as encoders or handling wires.
