@@ -36,6 +36,6 @@ Aubrey Price
 
 ###Speaking team:
 Zac Schulwolf  
-Seth Silva
+Seth Silva 
 Billy Blount  
 
